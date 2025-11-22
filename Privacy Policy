@@ -1,0 +1,160 @@
+# Privacy Policy
+
+**Last Updated:** November 21, 2025
+
+## Introduction
+
+This Privacy Policy describes how Platform Title Generator ("we," "our," or "the App") collects, uses, and protects your information when you use our iOS application. We are committed to protecting your privacy and ensuring transparency about our data practices.
+
+## Information We Collect
+
+### 1. User-Provided Information
+- **Video Files**: When you use the App to generate titles, you may select and upload video files from your device. These videos are processed temporarily to generate titles.
+- **Generated Titles**: The App stores the titles generated for your videos locally on your device and optionally syncs them to your iCloud account.
+- **Platform Preferences**: Your selections for platforms (YouTube Shorts, Instagram Reels, TikTok) and language preferences are stored locally.
+
+### 2. Automatically Collected Information
+- **Coin Balance**: Your coin balance is stored securely using Apple's Keychain Services and optionally synced via iCloud.
+- **Purchase History**: Transaction information for in-app purchases is handled by Apple's StoreKit framework and stored according to Apple's privacy policies.
+- **App Usage Data**: Basic usage data such as onboarding completion status is stored locally on your device.
+
+### 3. Third-Party Services Data
+- **Google Gemini AI**: When you generate titles, your video data is sent to Google's Gemini AI service for processing. This data is transmitted securely and used solely for title generation purposes.
+- **Google AdMob**: The App uses Google AdMob to display rewarded advertisements. AdMob may collect certain information as described in Google's Privacy Policy.
+- **Apple Services**: The App uses Apple's iCloud, Keychain, and StoreKit services, which are subject to Apple's Privacy Policy.
+
+## How We Use Your Information
+
+### 1. Title Generation
+- Video files you select are sent to Google's Gemini AI service to analyze content and generate optimized titles for your selected platforms.
+- Videos are processed temporarily and are not stored by our servers or Google's Gemini service beyond the processing time required for title generation.
+
+### 2. Data Storage and Synchronization
+- Generated titles are stored locally on your device using UserDefaults.
+- Optionally, titles and coin balance can be synced across your devices using Apple's iCloud service.
+- Coin balance is stored securely using Apple's Keychain Services with iCloud Keychain synchronization enabled.
+
+### 3. In-App Purchases
+- Purchase transactions are processed through Apple's StoreKit framework.
+- Transaction information is used solely to deliver purchased coin packages and restore purchases across devices.
+
+### 4. Advertising
+- The App displays rewarded advertisements through Google AdMob.
+- You can choose to watch ads to earn coins. Ad viewing is optional and requires your explicit action.
+
+## Data Sharing and Third-Party Services
+
+### 1. Google Gemini AI
+- **Purpose**: Video analysis and title generation
+- **Data Shared**: Video files (temporarily, during processing)
+- **Privacy Policy**: [Google Privacy Policy](https://policies.google.com/privacy)
+- **Data Retention**: Videos are not stored by Google beyond the processing time required for title generation
+
+### 2. Google AdMob
+- **Purpose**: Displaying rewarded advertisements
+- **Data Shared**: Standard advertising identifiers and device information (as per Google's AdMob policies)
+- **Privacy Policy**: [Google AdMob Privacy Policy](https://support.google.com/admob/answer/6128543)
+
+### 3. Apple Services
+- **iCloud**: Used for syncing titles and coin balance across your devices
+- **Keychain**: Used for secure storage of coin balance
+- **StoreKit**: Used for processing in-app purchases
+- **Privacy Policy**: [Apple Privacy Policy](https://www.apple.com/privacy/)
+
+## Data Security
+
+We implement appropriate technical and organizational measures to protect your information:
+
+- **Local Storage**: Data is stored locally on your device using iOS secure storage mechanisms
+- **Keychain**: Sensitive information (coin balance) is stored using Apple's Keychain Services
+- **Encryption**: Data synced via iCloud is encrypted according to Apple's security standards
+- **Secure Transmission**: All API communications use HTTPS encryption
+
+## Your Rights and Choices
+
+### 1. Access and Deletion
+- You can view all generated titles within the App
+- You can delete individual titles or all titles at any time through the App's interface
+- Deleting titles removes them from your device and iCloud (if synced)
+
+### 2. Data Portability
+- Generated titles are stored in a standard format and can be accessed through the App
+- You can export or copy titles directly from the App
+
+### 3. Opt-Out Options
+- You can choose not to sync data to iCloud by disabling iCloud in your device settings
+- You are not required to watch advertisements; this is an optional feature to earn coins
+- You can disable ad tracking through your device's privacy settings
+
+### 4. Purchase Management
+- In-app purchases are managed through Apple's App Store
+- You can restore purchases or request refunds through Apple's standard processes
+
+## Children's Privacy
+
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
+
+## Data Retention
+
+- **Generated Titles**: Stored locally on your device until you delete them. If iCloud sync is enabled, titles are stored in your iCloud account.
+- **Video Files**: Videos are not stored by our App or servers. They are processed temporarily and then discarded.
+- **Coin Balance**: Stored securely on your device and optionally synced via iCloud.
+- **Purchase History**: Managed by Apple's StoreKit and subject to Apple's data retention policies.
+
+## International Data Transfers
+
+Your data may be transferred to and processed in countries other than your country of residence:
+
+- **Google Services**: Data sent to Google Gemini AI and AdMob may be processed in Google's data centers worldwide
+- **Apple Services**: iCloud data may be stored in Apple's data centers globally
+- All transfers comply with applicable data protection laws and use appropriate safeguards
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+
+- Posting the new Privacy Policy on this page
+- Updating the "Last Updated" date at the top of this Privacy Policy
+- For significant changes, we may provide additional notice through the App
+
+You are advised to review this Privacy Policy periodically for any changes.
+
+## California Privacy Rights
+
+If you are a California resident, you have the right to:
+
+- Know what personal information is collected, used, shared, or sold
+- Delete personal information held by us
+- Opt-out of the sale of personal information (we do not sell personal information)
+- Non-discrimination for exercising your privacy rights
+
+## GDPR Rights (European Users)
+
+If you are located in the European Economic Area (EEA), you have the right to:
+
+- Access your personal data
+- Rectify inaccurate data
+- Erase your data ("right to be forgotten")
+- Restrict processing of your data
+- Data portability
+- Object to processing
+- Withdraw consent at any time
+
+To exercise these rights, please contact us using the information provided below.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
+
+**Email:** [Your Contact Email]
+**Developer:** Uğur
+**App Name:** Platform Title Generator
+
+## Consent
+
+By using the App, you consent to this Privacy Policy and agree to its terms. If you do not agree with this Privacy Policy, please do not use the App.
+
+---
+
+**Note:** This Privacy Policy is effective as of the date listed above and applies to all users of the Platform Title Generator iOS application.
+
